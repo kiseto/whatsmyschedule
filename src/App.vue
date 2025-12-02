@@ -1,11 +1,10 @@
 <script setup></script>
 
 <template>
-  <h1 class="italic">asdasd!</h1>
-  <p class="font-mono">
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="flex flex-col justify-center items-center">
+    <h1 class="font-bold">what's my schedule?</h1>
+    <button class="cursor-pointer">lets get started</button>
+  </div>
 </template>
 
 <style scoped></style>
